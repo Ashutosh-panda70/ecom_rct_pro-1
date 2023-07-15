@@ -1,0 +1,11 @@
+.ftrimg{
+    height: 400px;
+    width: 50%;
+}
+.aboutus{
+    width: 50%;
+    height: 400px;
+}
+.nav_overlap{
+    z-index: 999;
+}

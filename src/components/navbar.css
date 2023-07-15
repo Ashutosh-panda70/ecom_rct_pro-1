@@ -1,0 +1,19 @@
+.searchbox{
+    border-radius:17% 0% 0% 16% / 49% 10% 10% 48% ;
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+}
+.search_btn{
+   padding-left: 9px;
+   height: 40px;
+   width: 40px;
+   border-radius: 0% 100% 100% 0% / 51% 50% 50% 49%  ;
+   color: rgb(55, 119, 147);
+}
+.navbar{
+    background-color: #F2EDDB;
+}
+.cart{
+    color:  rgb(55, 119, 147);
+}
